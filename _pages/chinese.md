@@ -4,29 +4,29 @@ permalink: /chinese/
 author_profile: true
 ---
 # 研究兴趣
-数字建筑，可持续建筑，设计管理，医疗建筑
+社会组织，劳动分工的演化，议价能力理论
 
 # 教育及科研经历
-* **伦敦大学学院** 博士候选人；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)、[Eleni Papadonikolaki](https://www.ucl.ac.uk/bartlett/construction/people/dr-eleni-papadonikolaki)
-<br>2019.9-至今 巴特莱特建筑学院 可持续建筑系
-* **香港大学** 研究助理；合作导师：[吕伟生](https://www.arch.hku.hk/staff/faculty-office-staff/lu-wilson-w-s/)、[薛帆](https://www.arch.hku.hk/staff/rec/xue-fan/?dept=rec)
-<br>2018.9-2019.9 建筑学院 城市大数据实验室
-* **伦敦大学学院** 理学硕士；导师：[Grant Mills](https://www.ucl.ac.uk/bartlett/construction/people/dr-grant-mills)
-<br>2017.9-2018.9 巴特莱特建筑学院 建造及项目管理系
-* **华中科技大学** 建筑学学士 
-<br>2012.9-2017.7 建筑与城市规划学院 建筑学系                                                                                                                    
+* **伦敦大学学院** 博士候选人；
+<br>2020.9-至今 生物人类学系， 人类生态行为进化组
+* **伦敦大学学院** 哲学硕士；
+<br>2020.9-2021.12 人类学系
+* **兰州大学** 理学硕士；
+<br>2017.9-2020.6 生命科学学院， 生态学
+* **兰州大学** 理学学士 
+<br>2013.9-2017.6 生命科学学院 生物技术                                                                                                                    
 
 # 学术访问
-* **清华大学** 访问博士生；合作导师：[李纪珍](http://www.sem.tsinghua.edu.cn/zh/lijzh) 
-<br>2021.3-2021.6 经济管理学院 创新创业与战略系
-* **南方科技大学** 访问学者
-<br>2020.10-2020.11 系统设计与智能制造学院；合作导师：[熊异](https://faculty.sustech.edu.cn/xiongy3/)
+* **耶鲁大学** 访问研究学者；合作导师：Ember Carol
+<br>2022.7-2022.8 人类关系区域档案
+* **图卢兹经济学院** 访问博士生
+<br>2022.5-2022.6 博弈论；合作导师：[乔治，斯蒂，皮特]；政治经济学，合作导师：[默汗默徳，赫拉西欧]
 
 # 学术兼职
 * **伦敦大学学院** 助教(TA)、研究助理(RA)
-<br>2019.09-至今 巴特莱特建筑学院 可持续建筑系
-* **华中科大建筑规划设计研究院** 项目助理
-<br>2020.06-2020.09 土家族泛博物馆项目；合作导师：[李保峰](http://faculty.hust.edu.cn/libaofeng/zh_CN/index.htm)
+<br>2022.09-至今 人类学系
+* **兰州大学** 研究助理
+<br>2020.06-2021.09 
 
 # 期刊论文: 
 1.	**Tan, T***., Mills, G., Hu, J., & Papadonikolaki, E. (2021). [Integrated Approaches to Design for Manufacture and Assembly: A Case Study of Huoshenshan Hospital to Combat COVID-19 in Wuhan, China](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29ME.1943-5479.0000972). Journal of Management in Engineering, 37(6), 05021007. [面向制造与装配式设计的集成方法：中国武汉火神山医院抗击 COVID-19 的案例研究] (SCI中科院1区, IF=6.853).
