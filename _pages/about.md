@@ -42,9 +42,9 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 
 
 # Honors and Awards
-* Travel award. ISEMPH 2022, Lisbon. 
-* Selected as one of twenty young scholars to participate in the Royaumont workshop with Leda Cosmides and John Tooby
-* Ph.D. full Studentship. <br> University College London, United Kindom. 2020.
+* **Research award**. International Society of Evolution, Medicine, and Public Health, Lisbon, 2022. 
+* Selected as one of twenty young scholar guests to participate in the Royaumont workshop with Leda Cosmides and John Tooby, following the **Jean-Nicod Prize**.
+* **Ph.D. full Studentship**. <br> University College London, United Kindom. 2020.
 
 <!---Activity and Service--->
 <!---Experience--->
