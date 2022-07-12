@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 
 # Academic Visiting & Exchange
 * **Visiting Ph.D.**, Toulouse School of Economics , 1 Capitole of Toulouse, 2022/5-2022/6
-* **Visiting Scholar**, HRAF Institute, Yale University，2022/7-2022/8
+* **Visiting Researcher**, HRAF Institute, Yale University，2022/7-2022/8
 
 # Part-time Appointment
 * **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 expected
