@@ -18,7 +18,7 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 
 # Academic Visiting & Exchange
 * **Visiting Ph.D.**, Toulouse School of Economics , 1 Capitole of Toulouse, 2022/5-2022/6
-* **Visiting Researcher**, HRAF Institute, Yale University，2022/7-2022/8
+* **Visiting Researcher**, HRAF Institute, Yale University，2022/7-2022/8. Awarded a $3500 stipend to attend the second three-week HRAF Summer Institute for Cross-Cultural Anthropological Research (July 18-August 5, 2022) supported by the National Science Foundation. The Institute held on the Yale campus provided training in the theory and state-of-the art methods for conducting regional and worldwide comparative research. Main instructors: Carol R. Ember, Fiona Jordan, and Seán Roberts. Guest Instructors: Damian Blasi, Alexandra Brewis Slade, Joshua Conrad Jackson, Jeremy Koster, Eleanor Power, and Amber Wutich.
 
 # Part-time Appointment
 * **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 expected
@@ -44,6 +44,7 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 
 # Honors and Awards
 * **Research award**. International Society of Evolution, Medicine, and Public Health, Lisbon, 2022. 
+* **Stipend award**. From NSF 2022 at HRAF of Yale University
 * Selected as one of twenty young scholar guests to participate in the Royaumont workshop with Leda Cosmides and John Tooby, following the **Jean-Nicod Prize**.
 * **Ph.D. full Studentship**. <br> University College London, United Kindom. 2020.
 
