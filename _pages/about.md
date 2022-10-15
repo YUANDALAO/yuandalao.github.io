@@ -27,7 +27,7 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
 
 # Journal Paper
-* Erhao Ge*, **Yuan Chen***, Jiajia Wu, Ruth Mace$. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). *First co-author, http://dx.doi.org/10.1098/rsos.190991
+* Erhao Ge*, **Yuan Chen$**, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
 * **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint.
 * Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
 * Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace, Monks relax sibling competition over parental resources in Tibetan populations, Behavioral Ecology, 2022;, arac059, https://doi.org/10.1093/beheco/arac059
