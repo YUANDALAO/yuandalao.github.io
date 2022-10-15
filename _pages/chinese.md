@@ -32,7 +32,8 @@ author_profile: true
 1.	Erhao Ge, **$Yuan Chen**, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). **$First co-author**, http://dx.doi.org/10.1098/rsos.190991
 2.	**Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint. 
 3.	Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
-4. Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
+4.	Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace, Monks relax sibling competition over parental resources in Tibetan populations, Behavioral Ecology, 2022;, arac059, https://doi.org/10.1093/beheco/arac059
+5. Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
 
 # 授课及演讲 
 * 2022 演讲《宗教独身、可操作性比、劳动努力的性别不平等-跨文化比较研究》 (学术交流，里斯本大学)
