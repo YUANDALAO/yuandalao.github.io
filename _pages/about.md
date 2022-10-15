@@ -21,7 +21,7 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 * **Visiting Researcher**, HRAF Institute, Yale University，2022/7-2022/8. Awarded a $3500 stipend to attend the second three-week HRAF Summer Institute for Cross-Cultural Anthropological Research (July 18-August 5, 2022) supported by the National Science Foundation. The Institute held on the Yale campus provided training in the theory and state-of-the art methods for conducting regional and worldwide comparative research. Main instructors: Carol R. Ember, Fiona Jordan, and Seán Roberts. Guest Instructors: Damian Blasi, Alexandra Brewis Slade, Joshua Conrad Jackson, Jeremy Koster, Eleanor Power, and Amber Wutich.
 
 # Part-time Appointment
-* **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 expected
+* **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 to now
 
 # Research Interests
 Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
@@ -30,6 +30,7 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 * Erhao Ge*, **Yuan Chen***, Jiajia Wu, Ruth Mace$. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). *First co-author, http://dx.doi.org/10.1098/rsos.190991
 * **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint.
 * Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
+* Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace, Monks relax sibling competition over parental resources in Tibetan populations, Behavioral Ecology, 2022;, arac059, https://doi.org/10.1093/beheco/arac059
 * Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
 
 
