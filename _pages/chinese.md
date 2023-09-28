@@ -4,33 +4,31 @@ permalink: /chinese/
 author_profile: true
 ---
 # 研究兴趣
-社会组织，劳动分工的演化，议价能力理论
+社会组织，合作，分工的演化，议价权的动态演变
 
 # 教育及科研经历
 * **伦敦大学学院** 博士候选人；
-<br>2020.9-至今 生物人类学系， 人类生态行为进化组
+<br>生物人类学系， 人类生态行为进化组
 * **伦敦大学学院** 哲学硕士；
-<br>2020.9-2021.12 人类学系
+<br>人类学系
 * **兰州大学** 理学硕士；
-<br>2017.9-2020.6 生命科学学院， 生态学
+<br>生命科学学院， 生态学
 * **兰州大学** 理学学士 
-<br>2013.9-2017.6 生命科学学院 生物技术                                                                                                                    
+<br>生命科学学院 生物技术                                                                                                                    
 
 # 学术访问
-* **耶鲁大学** 访问研究学者；合作导师：Ember Carol
-<br>2022.7-2022.8 人类关系区域档案
+* **耶鲁大学** 访问研究学者
 * **图卢兹经济学院** 访问博士生
-<br>2022.5-2022.6 经济博弈论；社会进化的数学模型；合作导师：[乔治，斯蒂，皮特]；政治经济学，合作导师：[穆哈默徳，赫拉西欧]
 
 # 学术兼职
 * **伦敦大学学院** 助教(TA)、研究助理(RA)
-<br>2022.09-至今 人类学系
+<br>人类学系
 * **兰州大学** 研究助理
-<br>2020.06-2021.09 
+<br>
 
 # 期刊论文: 
 1. **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Sex inequality in workload driven by dispersal. Current Biology. 2023(33):464-473. https://doi.org/10.1016/j.cub.2022.12.027
-2. **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. PNAS. 2023. Submitted
+2. **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. Science. 2023. Submitted
 3. Erhao Ge, **Yuan Chen**$, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
 4. **Yuan Chen**, Ruth Mace. Women work harder than men – our anthropological study reveals why. The Conversation. 2023. https://theconversation.com/women-work-harder-than-men-our-anthropological-study-reveals-why-196826
 5. **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint.
@@ -51,9 +49,10 @@ author_profile: true
 
 
 # 个人荣誉:
-*  2022 获得2022年度国家优秀自费留学生奖学金
-*  2022 获得进化、医学、公共卫生国际协会研究基金资助
-*  2021 遴选为全球20位年轻学者之一，受邀参与琼·尼科迪奖（心灵哲学界的诺贝尔奖）研究论坛
-*  2021 古迪纳夫学院乒乓球联赛混双冠军
-*  2020 伦敦大学学院（QS世界排名前十，英国G5超级精英大学）博士全额奖学金，15万英镑
+*  国家优秀自费留学生奖学金
+*  欧洲研究委员会研究基金资助
+*  进化、医学、公共卫生国际协会研究基金资助
+*  遴选为全球20位年轻学者之一，受邀参与琼·尼科迪奖（心灵哲学界的诺贝尔奖）研究论坛
+*  古迪纳夫学院乒乓球联赛混双冠军
+*  伦敦大学学院（QS世界排名前十，英国G5超级精英大学）博士全额奖学金，15万英镑
 
