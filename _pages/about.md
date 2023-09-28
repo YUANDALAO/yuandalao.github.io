@@ -11,17 +11,17 @@ redirect_from:
 I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
 
 # Education & Research Experience
-* **Ph.D.**, Dept of Anthropology, UCL, 2020/9-2024/9
-* **RA**, Lanzhou University, 2020/9-2021/6
-* **MS.c.**, Ecology, Lanzhou University, 2017/9-2020/6
-* **BS.c.**, Biotechnology, Lanzhou University, 2013/9-2017/7
+* **Ph.D.**, Dept of Anthropology, UCL
+* **RA**, Lanzhou University
+* **MS.c.**, Ecology, Lanzhou University
+* **BS.c.**, Biotechnology, Lanzhou University
 
 # Academic Visiting & Exchange
-* **Visiting Ph.D.**, Toulouse School of Economics , 1 Capitole of Toulouse, 2022/5-2022/6
-* **Visiting Researcher**, HRAF Institute, Yale University，2022/7-2022/8. Awarded a $3500 stipend to attend the second three-week HRAF Summer Institute for Cross-Cultural Anthropological Research (July 18-August 5, 2022) supported by the National Science Foundation. The Institute held on the Yale campus provided training in the theory and state-of-the art methods for conducting regional and worldwide comparative research. Main instructors: Carol R. Ember, Fiona Jordan, and Seán Roberts. Guest Instructors: Damian Blasi, Alexandra Brewis Slade, Joshua Conrad Jackson, Jeremy Koster, Eleanor Power, and Amber Wutich.
+* Toulouse School of Economics , 1 Capitole of Toulouse
+* HRAF Institute, Yale University
 
 # Part-time Appointment
-* **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 to now.
+* **Research Assistant & Teaching Assistant**, Anthropology, UCL
   I have been delivering the courses ‘Introduction to Biological Anthropology’, ‘Human Ecology’, ‘Methods and Techniques to Biological Anthropology’ to the undergraduates at UCL
 
 # Research Interests
@@ -29,7 +29,7 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 
 # Journal Paper
 * **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Sex inequality in workload driven by dispersal. Current Biology. 2023(33):464-473. https://doi.org/10.1016/j.cub.2022.12.027
-* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. PNAS. 2023. Submitted
+* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. Science. 2023. Submitted
 * Erhao Ge*, **Yuan Chen$**, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
 * **Yuan Chen**, Ruth Mace. Women work harder than men – our anthropological study reveals why. The Conversation. 2023. https://theconversation.com/women-work-harder-than-men-our-anthropological-study-reveals-why-196826
 * **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint. 2022
@@ -51,11 +51,12 @@ Human behavioural ecology; Sexual division of labour; Religious belief; Kinship 
 
 
 # Honors and Awards
-* **Scholarship award**. The 2022 Chinese Government Award for Outstanding Self-financed Students Abroad.
-* **Research award**. International Society of Evolution, Medicine, and Public Health, Lisbon, 2022. 
+* **Scholarship award**. The Chinese Government Award for Outstanding Self-financed Students Abroad.
+* **Research award**. European Research Council, Adv Grant
+* **Travel award**. International Society of Evolution, Medicine, and Public Health, Lisbon
 * **Stipend award**. From NSF 2022 at HRAF of Yale University.
 * Selected as one of twenty young scholar guests to participate in the Royaumont workshop with Leda Cosmides and John Tooby, following the **Jean-Nicod Prize**.
-* **Ph.D. full ERC fellowship**. <br> University College London, United Kindom. 2020 - 2024.
+* **Ph.D. full ERC fellowship**. <br> University College London, United Kindom. 
 
 <!---Activity and Service--->
 <!---Experience--->
