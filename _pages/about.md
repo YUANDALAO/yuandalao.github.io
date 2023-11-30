@@ -17,9 +17,6 @@ I am currently a Postdoc at Heidelberg University.
 * **MS.c.**, Sep. 2015-Jul. 2018 Soochow University                                     Advisor: Prof. Xinfang Xu MSc in Chemistry 
 * **BS.c.**, Sep.2011- Jul. 2015 Wenzheng College of Soochow University              Advisor: Prof. Xinfang Xu BSc in Applied chemistry 
 
-# Academic Visiting & Exchange
-* Toulouse School of Economics , 1 Capitole of Toulouse
-* HRAF Institute, Yale University
 
 # Part-time Appointment
 * **Research Assistant & Teaching Assistant**, Anthropology, UCL
@@ -30,9 +27,9 @@ The research is focused on the development of synthetic chemistry to tackle chal
 
 # Journal Paper
 * 1) C. Zhang, S. Dong, M. C. Dietl, M. Rudolph, K. Hong, J. Yin, X. Zhang, W. Hu, A. S. K. Hashmi,* X. Xu* submitted: Modular and regioselective cycloadditions of gold(I)-cycloaddends.
-  2) C. Zhang, K. Hong, S. Dong, M. Liu, M. Rudolph, M. C. Dietl, J. Yin, W. Hu, A. S. K. Hashmi,* X. Xu* ACS Catal. (2023) in press: Generation and utility of cyclic dienyl gold carbene intermediates. (IF: 13.7).
-  3) C. Zhang,* Q. Chen, L. Wang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi* Sci. China Chem. 65, 1338 (2022): Practical and Modular Construction of Benzo[c]phenanthridine. (IF: 10.138).
-  4) C. Zhang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi,* ACS Catal. 11, 15203 (2021): Gold-Catalyzed Regiodivergent Annulations of Diazo-Alkynes Controlled by Et3N(HF)3. (IF: 13.7).
+* 2) C. Zhang, K. Hong, S. Dong, M. Liu, M. Rudolph, M. C. Dietl, J. Yin, W. Hu, A. S. K. Hashmi,* X. Xu* ACS Catal. (2023) in press: Generation and utility of cyclic dienyl gold carbene intermediates. (IF: 13.7).
+* 3) C. Zhang,* Q. Chen, L. Wang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi* Sci. China Chem. 65, 1338 (2022): Practical and Modular Construction of Benzo[c]phenanthridine. (IF: 10.138).
+* 4) C. Zhang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi,* ACS Catal. 11, 15203 (2021): Gold-Catalyzed Regiodivergent Annulations of Diazo-Alkynes Controlled by Et3N(HF)3. (IF: 13.7).
   5) C. Zhang, K. Hong, C. Pei, S. Zhou, W. Hu, A. S. K. Hashmi,* X. Xu* Nat. Commun. 12, 1182 (2021): Gold(I)-catalyzed intramolecular cyclization/intermolecular cycloaddition cascade as a fast track to polycarbocycles and mechanistic insights. (IF: 17.694).
   6) C. Zhang, H. Li, C. Pei, L. Qiu, W. Hu,* X. Bao,* X. Xu* ACS Catal. 9, 2440 (2019): Selective vinylogous reactivity of carbene intermediate in gold-catalyzed alkyne carbocyclization: synthesis of indenols. (IF: 13.7).
   7) C. Zhang, K. Hong, S. Dong, C. Pei, X. Zhang, C. He, W. Hu,* X. Xu* iScience 21, 499 (2019): Gold(I)-catalyzed aromatization: expeditious synthesis of polyfunctionalized naphthalenes. (IF: 6.107).
@@ -48,16 +45,16 @@ The research is focused on the development of synthetic chemistry to tackle chal
   17) J. Chen, J. Mao, Y. Zheng, D. Liu, G. Rong, H. Yan, C Zhang, D Shi* Tetrahedron 71, 5059 (2015): Iodine-promoted decarboxylative C–S cross-coupling of cinnamic acids with sodium benzene sulfonates. (IF: 2.388).  
 
 
-# Talks and posters
-* Talk: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2023)
-* Talk at a three-week Cross-cultural anthropological seminar organized by HRAF institute affiliated with Yale University (Aug 2022).
-* Talk at the 2022 Meeting of the International Society for Evolution, Medicine and Public Health, in Lisbon from July 5th to July 8th (Jul 2022).
-* Poster at the European Human Behaviour & Evolution Association EHBEA Conference (Apr 2021)
-* Talk at the 2nd French EHS meetings Montpellier (Nov 2021).
-* Participate in the Royaumont workshop with Leda Cosmides and John Tooby in Paris (Sep 2021).
-* Poster: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2018)
-* Talk: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2017)
+# Patents
+3）ZL201711208169.6徐新芳，洪科苗，郑洋，张成，邱丽华 (螺环4-氢吡唑类化合物的合成方法) 
+2）ZL201810300237.X徐新芳，常赛兰，洪科苗，张成，邱丽华 (多环2-氢环吡唑类化合物的合成方法) 
+1）ZL201810301545.4 徐新芳，苏涵，蔡菊，张成，邱丽华(螺环吲哚类化合物的合成方法) 
 
+# References
+
+Xinfang Xu, Professor of Pharmaceutical Science, Sun Yat-sen University, China E-mail: xuxinfang@mail.sysu.edu.cn 
+Hongming Jin, Professor of Pharmaceutical Science, Nanjing University of Chinese Medicine, China E-mail: hmjin@njucm.edu.cn 
+A. Stephen K. Hashmi, Professor of Organic Chemistry, Heidelberg University, Germay E-mail: hashmi@hashmi.de; Tel: +49 (0) 6221-54 8413 
 
 # Honors and Awards
 * **Scholarship award**. The Chinese Government Award for Outstanding Self-financed Students Abroad.
