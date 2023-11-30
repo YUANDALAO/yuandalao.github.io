@@ -8,11 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
+I am currently a Postdoc at Heidelberg University.
 
 # Education & Research Experience
-* **Ph.D.**, Dept of Anthropology, UCL
-* **RA**, Lanzhou University
+* **Ph.D.**, Dept of Anthropology, Heidelberg University
+* **Ph.D.**, Dept of Anthropology, Heidelberg University
 * **MS.c.**, Ecology, Lanzhou University
 * **BS.c.**, Biotechnology, Lanzhou University
 
