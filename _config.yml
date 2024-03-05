@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Yuan Chen"
+title                    : "Cheng Zhang"
 title_separator          : "-"
-name                     : &name "Yuan CHEN"
+name                     : &name "Cheng ZHANG"
 description              : &description "Ph.D. Candidate<br> Anthropology <br>University College London"
 url                      : https://yuandalao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan"
-  avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. Candidate<br>Anthropology<br>University College London"
-  location         : "London, United Kindom"
+  name             : "Cheng"
+  avatar           : "profileimg.png" # "tantan.jpg" #
+  bio              : "Researcher<br>Medicinal Chemistry<br>Heidelberg University"
+  location         : "Heidelberg, Germany"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
   email            : "yuan.chen.20@ucl.ac.uk"

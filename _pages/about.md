@@ -8,47 +8,53 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
+I am currently a Postdoc at Heidelberg University.
 
 # Education & Research Experience
-* **Ph.D.**, Dept of Anthropology, UCL
-* **RA**, Lanzhou University
-* **MS.c.**, Ecology, Lanzhou University
-* **BS.c.**, Biotechnology, Lanzhou University
+ 
+* **Postdoc.**, Nov. 2021- Heidelberg University                         Postdoc in Medicinal Chemistry
+* **Ph.D.**, Sep. 2018-Oct. 2021 Heidelberg University                             Advisor: Prof. Dr. A. Stephen K. Hashmi PhD in Organic Chemistry
+* **MS.c.**, Sep. 2015-Jul. 2018 Soochow University                                     Advisor: Prof. Xinfang Xu MSc in Chemistry 
+* **BS.c.**, Sep.2011- Jul. 2015 Wenzheng College of Soochow University              Advisor: Prof. Xinfang Xu BSc in Applied chemistry 
 
-# Academic Visiting & Exchange
-* Toulouse School of Economics , 1 Capitole of Toulouse
-* HRAF Institute, Yale University
 
 # Part-time Appointment
 * **Research Assistant & Teaching Assistant**, Anthropology, UCL
   I have been delivering the courses ‘Introduction to Biological Anthropology’, ‘Human Ecology’, ‘Methods and Techniques to Biological Anthropology’ to the undergraduates at UCL
 
 # Research Interests
-Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
+The research is focused on the development of synthetic chemistry to tackle challenges in chemical biology, medicinal chemistry
 
 # Journal Paper
-* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Sex inequality in workload driven by dispersal. Current Biology. 2023(33):464-473. https://doi.org/10.1016/j.cub.2022.12.027
-* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. Science. 2023. Submitted
-* Erhao Ge*, **Yuan Chen$**, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
-* **Yuan Chen**, Ruth Mace. Women work harder than men – our anthropological study reveals why. The Conversation. 2023. https://theconversation.com/women-work-harder-than-men-our-anthropological-study-reveals-why-196826
-* **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint. 2022
-* Micheletti AJC, Ge E, Zhou L, **Chen Y**, Du J, Mace R*. 2023 Studying human culture with small datasets and evolutionary models. Proc. R. Soc. B 290: 20230753. https://doi.org/10.1098/rspb.2023.0753
-* Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R*. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965
-* Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace*. Monks relax sibling competition over parental resources in Tibetan populations. Behavioral Ecology. 2022. https://doi.org/10.1093/beheco/arac059
-* Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
+* 1) C. Zhang, S. Dong, M. C. Dietl, M. Rudolph, K. Hong, J. Yin, X. Zhang, W. Hu, A. S. K. Hashmi,* X. Xu* submitted: Modular and regioselective cycloadditions of gold(I)-cycloaddends.
+* 2) C. Zhang, K. Hong, S. Dong, M. Liu, M. Rudolph, M. C. Dietl, J. Yin, W. Hu, A. S. K. Hashmi,* X. Xu* ACS Catal. (2023) in press: Generation and utility of cyclic dienyl gold carbene intermediates. (IF: 13.7).
+* 3) C. Zhang,* Q. Chen, L. Wang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi* Sci. China Chem. 65, 1338 (2022): Practical and Modular Construction of Benzo[c]phenanthridine. (IF: 10.138).
+* 4) C. Zhang, Q. Sun, M. Rudolph, F. Rominger, A. S. K. Hashmi,* ACS Catal. 11, 15203 (2021): Gold-Catalyzed Regiodivergent Annulations of Diazo-Alkynes Controlled by Et3N(HF)3. (IF: 13.7).
+  5) C. Zhang, K. Hong, C. Pei, S. Zhou, W. Hu, A. S. K. Hashmi,* X. Xu* Nat. Commun. 12, 1182 (2021): Gold(I)-catalyzed intramolecular cyclization/intermolecular cycloaddition cascade as a fast track to polycarbocycles and mechanistic insights. (IF: 17.694).
+  6) C. Zhang, H. Li, C. Pei, L. Qiu, W. Hu,* X. Bao,* X. Xu* ACS Catal. 9, 2440 (2019): Selective vinylogous reactivity of carbene intermediate in gold-catalyzed alkyne carbocyclization: synthesis of indenols. (IF: 13.7).
+  7) C. Zhang, K. Hong, S. Dong, C. Pei, X. Zhang, C. He, W. Hu,* X. Xu* iScience 21, 499 (2019): Gold(I)-catalyzed aromatization: expeditious synthesis of polyfunctionalized naphthalenes. (IF: 6.107).
+  8) X. Tian, L. Song, C. Han, C. Zhang, Y. Wu, M. Rudolph, F. Rominger, A. S. K. Hashmi,* Org. Lett. 21, 2937 (2019): Gold(III)-Catalyzed Formal [3 + 2] Annulations of N-Acyl Sulfilimines with Ynamides for the Synthesis of 4-Aminooxazoles. (IF: 6.072).
+  9) C. Zhang, S. Chang, S. Dong, L. Qiu,* X. Xu* J. Org. Chem. 83, 9125 (2018): Acid-Promoted Bicyclization of Diaryl Alkynes: Synthesis of 2H-Indazoles with in Situ Generated Diazonium Salt as Nitrogen Source. (IF: 4.198).
+  10) C. Zhang, S. Dong, Y. Zheng, C. He, J. Chen, J. Zhen, L. Qiu,* X. Xu* Org. Biomol. Chem. 16, 688 (2018): Synthesis of Spiro-4H-Pyrazole-Oxindoles and Fused 1H-pyrazoles via Divergent, Thermally Induced Tandem Cyclization/Migration of Alkyne-Tethered Diazo Compounds. (IF: 3.890).
+  11) C. Pei, C. Zhang, Y. Qian, X. Xu* Org. Biomol. Chem. 16, 8677 (2018): Catalytic carbene/alkyne metathesis (CAM): a versatile strategy for alkyne bifunctionalization. (IF: 3.890).
+  12) J. Cai, B.Wu, G. Rong, C. Zhang, L. Qiu,* X. Xu* Org. Lett. 20, 2733 (2018): Gold-catalyzed Bicyclization of Diaryl Alkynes: Synthesis of Polycyclic Fused Indole and Spirooxindole Derivatives. (IF: 6.072).
+  13) C. Zhang, S. Chang, L. Qiu, X. Xu* Chem. Commun. 52, 12470 (2016): Chemodivergent Synthesis of Multi-substituted/Fused Pyrroles via Copper-Catalyzed Carbene Cascade Reaction of Propargyl α-Iminodiazoacetates. (IF: 6.056).
+  14) C. Zhang, J. Huang, L. Qiu,* X. Xu* Org. Lett., 18, 6208 (2016): Thermally Induced [3 + 2] Cycloaddition of Alkynyl-Tethered Diazoamides: Synthetic and Mechanistic Insights. (IF: 6.072).
+  15) X. Wang, K. Dong, B. Yan, C. Zhang, L. Qiu, X. Xu* RSC adv. 6, 70221 (2016): NBS-mediated dinitrogen extrusion of diazoacetamides under catalyst-free conditions: practical access to 3-bromooxindole derivatives. (IF: 4.036).
+  16) X. Wang, Y. Zhou, L. Qiu, R. Yao, Y. Zheng, C. Zhang, X. Bao, X. Xu* Adv. Synth. Catal. 358, 1571 (2016): Enantioselective Carbene Cascade: An Effective Approach to Cyclopentadienes and Applications in Diels–Alder Reactions. (IF: 5.981).
+  17) J. Chen, J. Mao, Y. Zheng, D. Liu, G. Rong, H. Yan, C Zhang, D Shi* Tetrahedron 71, 5059 (2015): Iodine-promoted decarboxylative C–S cross-coupling of cinnamic acids with sodium benzene sulfonates. (IF: 2.388).  
 
 
-# Talks and posters
-* Talk: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2023)
-* Talk at a three-week Cross-cultural anthropological seminar organized by HRAF institute affiliated with Yale University (Aug 2022).
-* Talk at the 2022 Meeting of the International Society for Evolution, Medicine and Public Health, in Lisbon from July 5th to July 8th (Jul 2022).
-* Poster at the European Human Behaviour & Evolution Association EHBEA Conference (Apr 2021)
-* Talk at the 2nd French EHS meetings Montpellier (Nov 2021).
-* Participate in the Royaumont workshop with Leda Cosmides and John Tooby in Paris (Sep 2021).
-* Poster: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2018)
-* Talk: European Human Behaviour & Evolution Association EHBEA Conference (Apr 2017)
+# Patents
+3）ZL201711208169.6徐新芳，洪科苗，郑洋，张成，邱丽华 (螺环4-氢吡唑类化合物的合成方法) 
+2）ZL201810300237.X徐新芳，常赛兰，洪科苗，张成，邱丽华 (多环2-氢环吡唑类化合物的合成方法) 
+1）ZL201810301545.4 徐新芳，苏涵，蔡菊，张成，邱丽华(螺环吲哚类化合物的合成方法) 
 
+# References
+
+Xinfang Xu, Professor of Pharmaceutical Science, Sun Yat-sen University, China E-mail: xuxinfang@mail.sysu.edu.cn 
+Hongming Jin, Professor of Pharmaceutical Science, Nanjing University of Chinese Medicine, China E-mail: hmjin@njucm.edu.cn 
+A. Stephen K. Hashmi, Professor of Organic Chemistry, Heidelberg University, Germay E-mail: hashmi@hashmi.de; Tel: +49 (0) 6221-54 8413 
 
 # Honors and Awards
 * **Scholarship award**. The Chinese Government Award for Outstanding Self-financed Students Abroad.
