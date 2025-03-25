@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology and physical activity. My research examines how evolved social patterns—from kinship systems to gendered labour divisions—shape modern challenges of human populations. Combining computational modelling, cross-cultural analyses, and ethnographic fieldwork, I develop frameworks to align govermental policies with human biological imperatives. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council and the Chinese Government Award for Outstanding Self-Financed Students Abroad. 
+I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology and physical activity. My research examines how evolved social patterns—from kinship systems to gendered labour divisions—shape modern challenges of human populations. Combining computational modelling, cross-cultural analyses, and ethnographic fieldwork, I develop frameworks to align govermental policies with human biological imperatives. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council. 
 
 # Education & Research Experience
 * **Ph.D.**, Evolutionary and Environmental Anthropology, UCL, 2020-2024
@@ -57,7 +57,7 @@ Human behavioural ecology; Physical activity; Kinship system; Social organisatio
 * **Travel award**. International Society of Evolution, Medicine, and Public Health, Lisbon
 * **Stipend award**. From NSF 2022 at HRAF of Yale University.
 * Selected as one of twenty young scholar guests to participate in the Royaumont workshop with Leda Cosmides and John Tooby, following the **Jean-Nicod Prize**.
-* **Ph.D. full ERC fellowship**. <br> University College London, United Kindom. 
+* **Ph.D. full ERC Studentship**. <br> University College London, United Kindom. 
 
 <!---Activity and Service--->
 <!---Experience--->
