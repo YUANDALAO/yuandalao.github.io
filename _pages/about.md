@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at University College London (UCL), under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
+I'm currently an Honoured Research Fellow at University College London (UCL). I obtained my doctorate degree under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali  ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
 
 # Education & Research Experience
 * **Ph.D.**, Dept of Anthropology, UCL
