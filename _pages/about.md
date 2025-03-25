@@ -29,11 +29,11 @@ I'm an evolutionary and environmental anthropologist specialising in human behav
 Human behavioural ecology; Physical activity; Kinship system; Social organisation; Sex inequality
 
 # Journal Paper
-* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Sex inequality in workload driven by dispersal. Current Biology. 2023(33):464-473. https://doi.org/10.1016/j.cub.2022.12.027
-* **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Gender inequality explained by operational sex ratio in workloads. Science. 2023. Submitted
-* Erhao Ge*, **Yuan Chen$**, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
-* **Yuan Chen**, Ruth Mace. Women work harder than men – our anthropological study reveals why. The Conversation. 2023. https://theconversation.com/women-work-harder-than-men-our-anthropological-study-reveals-why-196826
-* **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint. 2022
+* **Chen, Y.**, Ge, E., Zhou, L., Du, J., & Mace, R. (2024). Gender inequality in workloads explained by operational sex ratio. ISCIENCE, 27(6), 110063. https://doi.org/10.1016/j.isci.2024.110063.
+* **Chen, Y.**, Ge, E., Zhou, L., Du, J., & Mace, R. (2023). Sex inequality in workload driven by dispersal. Current Biology, 33(3), 464–473. https://doi.org/10.1016/j.cub.2022.12.027.
+* Ge, E., **Chen, Y.$**, Wu, J., & Mace, R. (2019). Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science, 6(8). $Co-first author, https://doi.org/10.1098/rsos.190991
+* **Chen, Y.**, Mace, R. 2023. Women work harder than men – our anthropological study reveals why. The Conversation. https://theconversation.com/women-work-harder-than-men-our-anthropologicalstudy-reveals-why-196826.
+* He, Q. Q., Yu, J. R., Tang, S. H., Wang, M. Y., Wu, J. J., **Chen, Y.**, Tao, Y., Ji, T., & Mace, R. (2024). Jeans and language: kin networks and reproductive success are associated with the adoption of outgroup norms. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1897). https://doi.org/10.1098/rstb.2023.0031
 * Micheletti AJC, Ge E, Zhou L, **Chen Y**, Du J, Mace R*. 2023 Studying human culture with small datasets and evolutionary models. Proc. R. Soc. B 290: 20230753. https://doi.org/10.1098/rspb.2023.0753
 * Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R*. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965
 * Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace*. Monks relax sibling competition over parental resources in Tibetan populations. Behavioral Ecology. 2022. https://doi.org/10.1093/beheco/arac059
