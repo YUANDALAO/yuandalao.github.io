@@ -12,8 +12,8 @@ I'm currently an Honoured Research Fellow at University College London (UCL). I 
 
 # Education & Research Experience
 * **Ph.D.**, Evolutionary and Environmental Anthropology, UCL
-* **RA**, Human Ecology, Lanzhou University
-* **MS.c.**, Human Ecology, Lanzhou University
+* **RA**, Human Behavioural Ecology, Lanzhou University
+* **MS.c.**, Human Behavioural Ecology, Lanzhou University
 * **BS.c.**, Biotechnology, Lanzhou University
 
 # Academic Visiting & Exchange
