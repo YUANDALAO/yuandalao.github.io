@@ -11,14 +11,15 @@ redirect_from:
 I'm currently an Honoured Research Fellow at University College London (UCL). I obtained my doctorate degree under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali  ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
 
 # Education & Research Experience
-* **Ph.D.**, Dept of Anthropology, UCL
-* **RA**, Lanzhou University
-* **MS.c.**, Ecology, Lanzhou University
+* **Ph.D.**, Evolutionary and Environmental Anthropology, UCL
+* **RA**, Human Ecology, Lanzhou University
+* **MS.c.**, Human Ecology, Lanzhou University
 * **BS.c.**, Biotechnology, Lanzhou University
 
 # Academic Visiting & Exchange
 * Toulouse School of Economics , 1 Capitole of Toulouse
 * HRAF Institute, Yale University
+* Heidelberg University
 
 # Part-time Appointment
 * **Research Assistant & Teaching Assistant**, Anthropology, UCL
