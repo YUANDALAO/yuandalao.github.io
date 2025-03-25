@@ -8,13 +8,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently an Honoured Research Fellow at University College London (UCL). I obtained my doctorate degree under the supervision of Prof Ruth Mace, Dr. Mark Dyble, and Dr. Gul Deniz Salali  ([link](https://www.ucl.ac.uk/anthropology/research/evolutionary-anthropology/human-evolutionary-ecology)).
+I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology and physical activity. My research examines how evolved social patterns—from kinship systems to gendered labour divisions—shape modern challenges of human populations. Combining computational modelling, cross-cultural analyses, and ethnographic fieldwork, I develop frameworks to align govermental policies with human biological imperatives. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council and the Chinese Government Award for Outstanding Self-Financed Students Abroad. 
 
 # Education & Research Experience
-* **Ph.D.**, Evolutionary and Environmental Anthropology, UCL
-* **RA**, Human Behavioural Ecology, Lanzhou University
-* **MS.c.**, Human Behavioural Ecology, Lanzhou University
-* **BS.c.**, Biotechnology, Lanzhou University
+* **Ph.D.**, Evolutionary and Environmental Anthropology, UCL, 2020-2024
+* **RA**, Human Behavioural Ecology, Lanzhou University, 2020-2021
+* **MS.c.**, Human Behavioural Ecology, Lanzhou University, 2017-2020
+* **BS.c.**, Biotechnology, Lanzhou University, 2013-2017
 
 # Academic Visiting & Exchange
 * Toulouse School of Economics , 1 Capitole of Toulouse
@@ -26,7 +26,7 @@ I'm currently an Honoured Research Fellow at University College London (UCL). I 
   I have been delivering the courses ‘Introduction to Biological Anthropology’, ‘Human Ecology’, ‘Methods and Techniques to Biological Anthropology’ to the undergraduates at UCL
 
 # Research Interests
-Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
+Human behavioural ecology; Physical activity; Kinship system; Social organisation; Sex inequality
 
 # Journal Paper
 * **Yuan Chen***, Erhao Ge, Liqiong Zhou, Juan Du, Ruth Mace. Sex inequality in workload driven by dispersal. Current Biology. 2023(33):464-473. https://doi.org/10.1016/j.cub.2022.12.027
