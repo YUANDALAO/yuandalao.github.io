@@ -4,13 +4,13 @@ permalink: /chinese/
 author_profile: true
 ---
 # 研究兴趣
-社会组织，合作，分工的演化，议价权的动态演变
+进化医学，人类行为进化，人口与流行病，文化实践
 
 # 教育及科研经历
-* **伦敦大学学院** 博士候选人；
-<br>生物人类学系， 人类生态行为进化组
+* **伦敦大学学院** 哲学博士；
+<br>生物人类学系， 进化与环境人类学
 * **伦敦大学学院** 哲学硕士；
-<br>人类学系
+<br>生物人类学
 * **兰州大学** 理学硕士；
 <br>生命科学学院， 生态学
 * **兰州大学** 理学学士 
@@ -32,10 +32,16 @@ author_profile: true
 3. Erhao Ge, **Yuan Chen**$, Jiajia Wu, Ruth Mace*. Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science. 2019, 6 (8). $First co-author, http://dx.doi.org/10.1098/rsos.190991
 4. **Yuan Chen**, Ruth Mace. Women work harder than men – our anthropological study reveals why. The Conversation. 2023. https://theconversation.com/women-work-harder-than-men-our-anthropological-study-reveals-why-196826
 5. **Yuan Chen**, Jiajia Wu, Juan Du, Ruth Mace*. Sex inequality in workload driven by dispersal. OSF Preprint.
-6. Micheletti AJC, Ge E, Zhou L, **Chen Y**, Du J, Mace R*. 2023 Studying human culture with small datasets and evolutionary models. Proc. R. Soc. B 290: 20230753. https://doi.org/10.1098/rspb.2023.0753
-7. Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
-8. Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace, Monks relax sibling competition over parental resources in Tibetan populations, Behavioral Ecology, 2022;, arac059, https://doi.org/10.1093/beheco/arac059
-9. Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
+6. Zhou, Liqiong; **Chen, Yuan**; Ge, Erhao; Aijie Zhang; Yasi Zhang; Du, Juan; Ruth Mace;
+Yiqiang Zhan ; Having a monk in the family and all-cause mortality: a seven-year prospective
+cohort study, Evolutionary Human Sciences, 2025
+7. Zhou, Liqiong; Aijie Zhang; Yasi Zhang; **Yuan Chen**; Erhao Ge; Juan Du; Zhao Hu; Ruth Mace;
+Yiqiang Zhan ; Prevalence of mental health in relation to religious practices in a contemporary
+smallscale older Amdo Tibetans, PLOS Mental Health, 2025 (期刊论文) 
+8. Micheletti AJC, Ge E, Zhou L, **Chen Y**, Du J, Mace R*. 2023 Studying human culture with small datasets and evolutionary models. Proc. R. Soc. B 290: 20230753. https://doi.org/10.1098/rspb.2023.0753
+9. Micheletti AJC, Ge E, Zhou L, **Chen Y**, Zhang H, Du J, Mace R. 2022 Religious celibacy brings inclusive fitness benefits. Proc. R. Soc. B 289: 20220965. https://doi.org/10.1098/rspb.2022.0965.
+10. Liqiong Zhou, Erhao Ge, Alberto J C Micheletti, **Yuan Chen**, Juan Du, Ruth Mace, Monks relax sibling competition over parental resources in Tibetan populations, Behavioral Ecology, 2022;, arac059, https://doi.org/10.1093/beheco/arac059
+11. Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
 
 # 授课及演讲 
 * 2023 演讲《宗教独身、可操作性比、劳动努力的性别不平等-跨文化比较研究》 (学术交流，UCL)
