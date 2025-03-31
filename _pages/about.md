@@ -8,10 +8,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology and physical activity. My research examines how evolved social patterns—from kinship systems to gendered labour divisions—shape modern challenges of human populations. Combining computational modelling, cross-cultural analyses, and ethnographic fieldwork, I develop frameworks to align govermental policies with human biological imperatives. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council. 
+I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology, physical activity and health consequences. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council. 
 
 # Education & Research Experience
-* **Ph.D.**, Evolutionary and Environmental Anthropology, UCL
+* **Ph.D.**, Evolutionary and Environmental Anthropology, University College London
 * **RA**, Human Behavioural Ecology, Lanzhou University
 * **MS.c.**, Human Behavioural Ecology, Lanzhou University
 * **BS.c.**, Biotechnology, Lanzhou University
@@ -33,11 +33,11 @@ Human behavioural ecology; Physical activity; Kinship system; Social organisatio
 * **Chen, Y.**, Ge, E., Zhou, L., Du, J., & Mace, R. (2023). Sex inequality in workload driven by dispersal. Current Biology, 33(3), 464–473. https://doi.org/10.1016/j.cub.2022.12.027.
 * Ge, E., **Chen, Y.$**, Wu, J., & Mace, R. (2019). Large-scale cooperation driven by reputation, not fear of divine punishment. Royal Society Open Science, 6(8). $Co-first author, https://doi.org/10.1098/rsos.190991
 * **Chen, Y.**, Mace, R. 2023. Women work harder than men – our anthropological study reveals why. The Conversation. https://theconversation.com/women-work-harder-than-men-our-anthropologicalstudy-reveals-why-196826.
-* * Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
+* Arnot, M; Brandl, E; Campbell, O; **Chen, Yuan**, et al. How evolutionary behavioural sciences can help us understand behavior in a pandemic. Evolution, Medicine, and Public Health. 2020(1):264-278, https://doi.org/10.1093/emph/eoaa038
 * Zhou, Liqiong; **Chen, Yuan**; Ge, Erhao; Aijie Zhang; Yasi Zhang; Du, Juan; Ruth Mace;
 Yiqiang Zhan ; Having a monk in the family and all-cause mortality: a seven-year prospective
 cohort study, Evolutionary Human Sciences, 2025
-Zhou, Liqiong; Aijie Zhang; Yasi Zhang; **Yuan Chen**; Erhao Ge; Juan Du; Zhao Hu; Ruth Mace;
+* Zhou, Liqiong; Aijie Zhang; Yasi Zhang; **Yuan Chen**; Erhao Ge; Juan Du; Zhao Hu; Ruth Mace;
 Yiqiang Zhan ; Prevalence of mental health in relation to religious practices in a contemporary
 smallscale older Amdo Tibetans, PLOS Mental Health, 2025
 * He, Q. Q., Yu, J. R., Tang, S. H., Wang, M. Y., Wu, J. J., **Chen, Y.**, Tao, Y., Ji, T., & Mace, R. (2024). Jeans and language: kin networks and reproductive success are associated with the adoption of outgroup norms. Philosophical Transactions of the Royal Society B: Biological Sciences, 379(1897). https://doi.org/10.1098/rstb.2023.0031
