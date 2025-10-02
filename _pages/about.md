@@ -8,12 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology, physical activity and health consequences. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council. 
+I'm an evolutionary and environmental anthropologist specialising in human behavioural ecology, health consequences and human evolution. My work has been published in Current Biology, iScience, and Royal Society Open Science, etc., and recognised by European Research Council. 
 
 # Education & Research Experience
 * **Ph.D.**, Evolutionary and Environmental Anthropology, University College London
-* **RA**, Human Behavioural Ecology, Lanzhou University
-* **MS.c.**, Human Behavioural Ecology, Lanzhou University
+* **MS.c.**, Ecology, Lanzhou University
 * **BS.c.**, Biotechnology, Lanzhou University
 
 # Academic Visiting & Exchange
@@ -59,11 +58,6 @@ smallscale older Amdo Tibetans, PLOS Mental Health, 2025
 
 
 # Honors and Awards
-* **Scholarship award**. The Chinese Government Award for Outstanding Self-financed Students Abroad.
-* **Research award**. European Research Council, Adv Grant
-* **Travel award**. International Society of Evolution, Medicine, and Public Health, Lisbon
-* **Stipend award**. From NSF 2022 at HRAF of Yale University.
-* Selected as one of twenty young scholar guests to participate in the Royaumont workshop with Leda Cosmides and John Tooby, following the **Jean-Nicod Prize**.
 * **Ph.D. full ERC Studentship**. <br> University College London, United Kindom. 
 
 <!---Activity and Service--->
