@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Yuan Chen"
 title_separator          : "-"
 name                     : &name "Yuan CHEN"
-description              : &description "Ph.D. Candidate<br> Anthropology <br>University College London"
+description              : &description "Ph.D <br> Human Biology and Evolution <br>University College London"
 url                      : https://yuandalao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YUANDALAO/Yuan-ucl.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Yuan"
   avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D. Candidate<br>Anthropology<br>University College London"
+  bio              : "Ph.D <br>Evolutionary Anthropology<br>University College London"
   location         : "London, United Kindom"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
