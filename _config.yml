@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuan"
+  name             : "Chen, Yuan"
   avatar           : "0.jpg" # "tantan.jpg" #
-  bio              : "Ph.D <br>Evolutionary Anthropology<br>University College London"
+  bio              : "Ph.D in <br>Evolutionary Anthropology<br>University College London"
   location         : "London, United Kindom"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_VG990cAAAAJ&hl=en"
