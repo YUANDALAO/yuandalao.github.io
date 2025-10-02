@@ -25,7 +25,7 @@ I'm an evolutionary and environmental anthropologist specialising in human behav
   I have been delivering the courses ‘Introduction to Biological Anthropology’, ‘Human Ecology’, ‘Methods and Techniques to Biological Anthropology’ to the undergraduates at UCL
 
 # Research Interests
-Human behavioural ecology; Physical activity; Kinship system; Social organisation; Sex inequality
+Human behavioural ecology; Demography and epidemiology; Cultural evolution; Evolutionary medicine; Sex inequality
 
 # Journal Paper
 * **Chen, Y.**, Ge, E., Zhou, L., Du, J., & Mace, R. (2024). Gender inequality in workloads explained by operational sex ratio. ISCIENCE, 27(6), 110063. https://doi.org/10.1016/j.isci.2024.110063.
